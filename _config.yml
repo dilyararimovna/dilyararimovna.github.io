@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             :
+  name             : "Researcher at DeepPavlov, MIPT. DREAM Team Leader in Alexa Prize-4"
   avatar           : "profile.png"
-  bio              : "Researcher at DeepPavlov, MIPT.\nDREAM Team Leader in Alexa Prize-4"
+  bio              :
   location         : "Moscow, Russia"
   employer         :
   pubmed           :
