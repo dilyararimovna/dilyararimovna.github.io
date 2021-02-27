@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-My name is Dilyara, I am a researcher at [Neural Networks and Deep Learning Laboratory](https://mipt.ru/english/research/labs/neural-networks-and-deep-learning-lab) in Moscow Institute of Physics and Technology, Russia.
+My name is Dilyara Baymurzina, I am a researcher at [Neural Networks and Deep Learning Laboratory](https://mipt.ru/english/research/labs/neural-networks-and-deep-learning-lab) in Moscow Institute of Physics and Technology, Russia.
 The main project of our lab is the open-source library for NLP and chatbots [DeepPavlov](deepavlov.ai).
 
-Обо мне
+Обо мне [Ru]
 ======
 
-Меня зовут Диляра, я исследователь [лаборатории нейронных систем и глубокого обучения](https://mipt.ru/science/labs/laboratoriya-neyronnykh-sistem-i-glubokogo-obucheniya/) Московского физико-технического института, Россия.
-Основным проектом нашей лаборатории является опен-сорс библиотека для решения задач обработки естественного зяыка и построения диалоговых систем [DeepPavlov](deepavlov.ai).
+Меня зовут Диляра Баймурзина, я работаю исследователем в [лаборатории нейронных систем и глубокого обучения](https://mipt.ru/science/labs/laboratoriya-neyronnykh-sistem-i-glubokogo-obucheniya/) Московского физико-технического института, Россия.
+Основным проектом нашей лаборатории является открытая библиотека для решения задач обработки естественного зяыка и построения диалоговых систем [DeepPavlov](deepavlov.ai).
 
 A data-driven personal website
 ======
