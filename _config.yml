@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dilyara Baymurzina"
+  name             :
   avatar           : "profile.png"
   bio              : "Researcher at DeepPavlov, MIPT.\nDREAM Team Leader in Alexa Prize-4"
   location         : "Moscow, Russia"
