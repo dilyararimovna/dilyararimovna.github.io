@@ -40,5 +40,5 @@ In 2017 I graduated double-degree master program in Computational Science by Mos
 1. [Статья на Habr "Команда МФТИ второй год подряд в конкурсе от Amazon — Alexa Prize Socialbot Grand Challenge 4"](https://habr.com/ru/company/mipt/blog/526564/)
 1. [Статья TADVISOR "Чем умных женщин привлекает сфера Big Data и искусственного интеллекта"](https://www.tadviser.ru/index.php/%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D1%8F:%D0%A7%D0%B5%D0%BC_%D1%83%D0%BC%D0%BD%D1%8B%D1%85_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD_%D0%BF%D1%80%D0%B8%D0%B2%D0%BB%D0%B5%D0%BA%D0%B0%D0%B5%D1%82_%D1%81%D1%84%D0%B5%D1%80%D0%B0_Big_Data_%D0%B8_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B0._9_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B9_%D0%B8%D0%B7_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8)
 1. [Статья на Habr "Команда DREAM о соревновании Alexa Prize Socialbot Challenge 3"](https://habr.com/ru/company/mipt/blog/479056/)
-1. [Доклад по нейроэволюция 11 мая 2019](https://www.youtube.com/watch?v=Kl0wL0Sgc4E&ab_channel=ODSAIGlobal)
+1. [Доклад по нейроэволюции 11 мая 2019](https://www.youtube.com/watch?v=Kl0wL0Sgc4E&ab_channel=ODSAIGlobal)
 1. [Классификация текстов с DeepPavlov report 28 апреля 2018](https://www.youtube.com/watch?v=ZTEFhkSnI4g&ab_channel=ODSAIGlobal)
