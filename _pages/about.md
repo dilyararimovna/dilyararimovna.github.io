@@ -9,13 +9,27 @@ redirect_from:
 ---
 
 My name is Dilyara Baymurzina, I am a researcher at [Neural Networks and Deep Learning Laboratory](https://mipt.ru/english/research/labs/neural-networks-and-deep-learning-lab) in Moscow Institute of Physics and Technology, Russia.
-The main project of our lab is the open-source library for NLP and chatbots [DeepPavlov](deepavlov.ai).
+The main project of our lab is the open-source library for NLP and chatbots [DeepPavlov](deepavlov.ai). 
+
+I am also a Team Leader of DREAM - Moscow Institute of Physics and Technology team participating in Alexa Prize Challenge 3 and 4.
+
+My current main research directions are evolutionary neural architecture search (my PhD thesis) and socialbots development (as a part of Alexa Prize Challenge).
+
+In 2015 I graduated from Moscow Institute of Physics and Technology. 
+In 2017 I graduated double-degree master program in Computational Science by Moscow Institute of Physics and Technology and Skolkovo Institute of Science and Technology (Skoltech).
 
 Обо мне [Ru]
 ======
 
 Меня зовут Диляра Баймурзина, я работаю исследователем в [лаборатории нейронных систем и глубокого обучения](https://mipt.ru/science/labs/laboratoriya-neyronnykh-sistem-i-glubokogo-obucheniya/) Московского физико-технического института, Россия.
 Основным проектом нашей лаборатории является открытая библиотека для решения задач обработки естественного языка и построения диалоговых систем [DeepPavlov](deepavlov.ai).
+
+Я также являюсь капитаном команды DREAM Московского физико-технического института, второй год подряд принимающей участие в конкурсе Alexa Prize Challenge.
+
+Мой научные интересы на данный момент связаны с эволюционным поиском нейросетевых архитектур (аспирантура) и разработка диалоговых систем (конкурс Alexa prize Challenge 3 & 4).
+
+Я закончила бакалавриат факультета управления и прикладной математики Московского физико-технического института в 2015 году. 
+В 2017 я закончила программу двойных дипломов магистратур Московского физико-технического института и Сколковского института науки и технологий (Сколтех) по направление Computational Science.
 
 Интересные ссылки [Ru]
 ======
